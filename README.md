@@ -6,3 +6,5 @@ The SARS-CoV-2 virus is a betacoronavirus, like MERS-CoV and SARS-CoV.  All thre
 ![](images/Coronavirus-Confirmed-cases-deaths-and-recovered.jpg)
 
 Global efforts at this time are focused concurrently on containing the spread and mitigating the impact of this virus. As the coronavirus spreads globally it will be beneficial to all stack-holders to  track the confirmed cases, deaths, recoveries so that the world can take well informed action. I used power Bi to provides insights into the international spread across the globe.  This information will vary every day.
+
+The coronavirus COVID-19 is affecting 103 countries and territories around the world and 1 international conveyance (the Diamond Princess cruise ship harbored in Yokohama, Japan). The data used in this analysis was collected until March. There will be a great difference in each day.
